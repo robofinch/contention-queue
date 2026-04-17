@@ -12,4 +12,4 @@ dependencies = [
 [[package]]
 name = "variance-family"
 version = "0.1.0"
-source = "git+https://github.com/robofinch/self-ref-box?branch=dev#e835fce5976b0bc6f07fac86bd17cb4ebe543ce9"
+source = "git+https://github.com/robofinch/lifetime-foundry?branch=dev#654b6644c288c2fff992a3734dbb65424000d489"

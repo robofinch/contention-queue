@@ -14,7 +14,7 @@ license      = "MIT OR Apache-2.0"
 
 
 [dependencies]
-variance-family = { package = "variance-family", git = "https://github.com/robofinch/self-ref-box", branch = "dev", default-features = false}
+variance-family = { package = "variance-family", git = "https://github.com/robofinch/lifetime-foundry", branch = "dev", default-features = false}
 
 
 [features]
