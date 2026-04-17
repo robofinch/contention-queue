@@ -4,6 +4,9 @@
 //! [LICENSE-APACHE]: https://github.com/robofinch/contention-queue/blob/main/LICENSE-APACHE
 //! [LICENSE-MIT]: https://github.com/robofinch/contention-queue/blob/main/LICENSE-MIT
 //!
+//! [`ContentionQueue`]: ContentionQueue
+//! [`variance-family`]: variance_family
+//!
 //! <style>
 //! .rustdoc-hidden { display: none; }
 //! </style>
